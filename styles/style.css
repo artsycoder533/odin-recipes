@@ -1,0 +1,24 @@
+body {
+    background: snow;
+}
+
+.title {
+    color: red;
+    text-align: center;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.link {
+    color: black;
+}
+
+.home {
+    text-transform: uppercase;
+}
+
+.author{
+    text-align: center;
+}
